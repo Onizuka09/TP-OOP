@@ -9,9 +9,12 @@ Ce repertoire represente notre travail dans le TP OOP
 
 ## Execution and Testing 
 - Testing 
+
 On a creer un fichier main.cpp pour tester l'excution les Class 
 - Execution
+
 Dans le terminal: 
+
 ```bash  
 $ make 
 $ ./main
